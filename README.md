@@ -1,2 +1,11 @@
-# resume1
-this is aprojecct about my reume
+# To DO
+- Change the name to suit yours
+- Update the links that exist in the code.Put the relevant links that you have: github, Medium, Youtube.
+- Update the content in the code.
+- Replace the image with using an image link online.
+- Update the project to bootstrap5
+- Remove the style switcher buttonand use other colours. Replace the colours currently being used.
+- Put this work on github and share a link to Frank on slack by Sunday 5pm
+- Remove extra files and use CDN to link the website.
+- Update fonts to use google fonts that make the site look better.
+- Some unneccessary files exist. Remove them
